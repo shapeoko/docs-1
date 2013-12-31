@@ -152,7 +152,7 @@ Specifications
 Setting up the Relay Shield
 -----
 
-![Relay Shield Connection](images/relay-shield-bulb.jpg)
+![Relay Shield Connection](..docs/images/relay-shield-bulb.jpg)
 
 Turning ON a relay is as simple as setting the associated pin to HIGH.
 
